@@ -6,6 +6,8 @@ description: 'This resource describes: Refresher, and Solutions. Under Refresher
 file: /courses/15-810-marketing-management-fall-2004/5558a794e2bffcc3c8a5df088a8de0ae_14dsnmgmtmktgch2.pdf
 file_size: 119371
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
