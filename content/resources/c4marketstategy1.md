@@ -5,8 +5,6 @@ description: 'This resource explains: Market Size, Horizontal Competition, Verti
 file: /courses/15-810-marketing-management-fall-2004/cd617d00808d243aa4f44a08be6dc6a4_c4marketstategy1.pdf
 file_size: 266910
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

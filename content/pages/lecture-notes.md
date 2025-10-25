@@ -2,8 +2,6 @@
 content_type: page
 description: Lecture notes lists various lecture topics and case studies covered in
   the course along with class notes for some of the selected lectures.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

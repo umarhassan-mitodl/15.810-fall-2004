@@ -5,8 +5,6 @@ description: 'This resource explains the process of product development and expl
 file: /courses/15-810-marketing-management-fall-2004/0f93ceeb3aa01249fc2e5e9691a91ed6_c8productdvlpmnt.pdf
 file_size: 130791
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
